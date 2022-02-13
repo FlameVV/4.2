@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+@import "null.css";
+
+.header {
+	color: #1e212c;
+	font-family: "Lato";
+	font-style: normal;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	text-align: left;
+}
+
+.carton {
+	text-align: left;
+}
+
+.text {
+	color: #1e212c;
+	font-family: "Lato";
+	font-style: normal;
+	text-transform: capitalize;
+	font-size: 20px;
+	font-weight: 700;
+	text-align: left;
+	line-height: 150%;
+}
+.line {
+	font-family: "Lato";
+	font-style: normal;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 160%;
+	text-align: left;
+	color: #424551;
+}
+
+.line1 {
+	font-family: "Lato";
+	font-style: normal;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 150%;
+	color: #1e212c;
+	text-align: left;
+}
+.line2 {
+	font-family: "Lato";
+	font-style: normal;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 160%;
+	color: #424551;
+	text-align: left;
+}
+.line_group {
+	font-family: "Lato";
+	font-style: normal;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 160%;
+	color: #424551;
+	text-align: left;
+}
+.footer {
+	font-family: "Lato";
+	font-style: normal;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 160%;
+	color: #424551;
+	text-align: left;
+}
